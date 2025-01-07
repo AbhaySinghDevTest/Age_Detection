@@ -21,6 +21,8 @@ Features
 4. Output to CSV: Predicted ages are saved to a CSV file for easy reference.
 
 5. Visual Analysis: Training history is visualized using loss and validation loss plots.
+
+when you run code then provide right path to save model or dataset path 
    
 For any issues or queries, feel free to contact Me.
 
