@@ -1,0 +1,22 @@
+# Core Machine Learning and Deep Learning Libraries
+tensorflow==2.14.0
+numpy==1.25.2
+scikit-learn==1.3.0
+
+# Image Processing
+opencv-python==4.8.0.74
+
+# Visualization
+matplotlib==3.8.0
+seaborn==0.12.2
+
+# For Data Augmentation
+keras==2.14.0
+
+# Optional (if deploying the model)
+flask==2.3.3
+fastapi==0.99.0
+uvicorn==0.23.0
+
+# Optional (for creating a web app for predictions)
+streamlit==1.25.0
